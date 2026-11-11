@@ -1,0 +1,4 @@
+seed: 0          # base seed; run k will use seed + k
+n_seeds: 10      # the brief requires at least 10
+data_root: ../data_raw
+results_dir: results
